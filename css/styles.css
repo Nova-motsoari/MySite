@@ -101,3 +101,29 @@ body{
 /*****************************************************************************/
 /*---------------------css for basic qual section---------------------------*/
 /***************************************************************************/
+.cert{
+  text-align: center;
+  padding: 0;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+/*****************************************************************************/
+/*---------------------css for my skill section---------------------------*/
+/***************************************************************************/
+#my-skill-a{
+  text-align: center;
+  padding: 0;
+  font-family: 'Montserrat Alternates', sans-serif
+  margin: auto;
+}
+.skill{
+  text-align: center;
+  padding: 0;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+#my-skill-b{
+  text-align: center;
+  padding: 0;
+  font-family: 'Montserrat Alternates', sans-serif
+  margin: auto;
+}
